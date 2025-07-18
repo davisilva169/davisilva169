@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://www5.usp.br/wp-content/uploads/2022/06/logo_usp_branco-1.png" height="35"/>
+  <img width="100" height="40" alt="Image" src="https://github.com/user-attachments/assets/6b7f2be6-e3e5-4d23-a96e-18f9605522f9"/>
   <img src="https://www2.ifsc.usp.br/portal-ifsc/site-antigo/images/stories/imagens/Logo_IFSC.png" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/>
