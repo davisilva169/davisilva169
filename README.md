@@ -23,7 +23,7 @@
 
 ##
 ### Sobre mim
-Sou graduando em Física, com ênfase em física Teórica, pela USP. Amo o trabalho acadêmico, programação e a arte que se desenvolve por linhas concisas de equações tão triviais pela dimensão do espaço abordado. Aqui você encontrará anotações, animações com Python e projetos voltados à física, matemática e divulgação.
+Sou graduando em Física, com ênfase em física Teórica, pela USP. Amo o trabalho acadêmico, programação e a arte que se desenvolve por linhas concisas de equações tão triviais no que concerne a dimensão do espaço abordado. Aqui você encontrará anotações, animações com Python e projetos voltados à física, matemática e divulgação.
 
 ### Áreas de interesse
 - Astronomia e Astrofísica de Partículas;
