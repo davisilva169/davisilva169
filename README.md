@@ -44,7 +44,7 @@ I also enjoy scientific animation, nonlinear dynamics, mathematics, and teaching
 
 ## <img src="assets/section.svg" width="4" height="22" alt=""> &nbsp; Research interests
 
-`Statistical physics` · `Particle astrophysics` · `Complex systems` · `Cosmic-ray air showers` · `Monte Carlo methods` · `Nonlinear dynamics` · `Quantum mechanics` · `Scientific visualization`
+`Statistical physics` · `Particle astrophysics` · `Complex systems` · `Cosmic-ray air showers` · `Monte Carlo methods` · `Nonlinear dynamics` · `Quantum mechanics` · `Markov Chain`, `Scientific visualization`
 
 ## <img src="assets/section.svg" width="4" height="22" alt=""> &nbsp; Tools
 
