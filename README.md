@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img width="1280" alt="Davi Santos-Silva — Statistical and Astrophysicist — APOETA" src="assets/header-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg?v=2">
+  <img width="1280" alt="Davi Santos-Silva — Statistical Physicist and Astrophysicist — APOETA" src="assets/header-light.svg?v=2">
 </picture>
 
 ## <img src="assets/section.svg" width="4" height="22" alt=""> &nbsp; About
