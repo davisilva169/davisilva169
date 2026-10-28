@@ -1,0 +1,41 @@
+name: Update profile statistics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_stats.py
+      - .github/workflows/profile-stats.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - name: Build statistics from public GitHub data
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_stats.py
+      - name: Commit updated cards
+        run: |
+          git add assets/stats-*.svg assets/languages-*.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh public GitHub statistics'
+          git push
