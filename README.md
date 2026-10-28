@@ -10,7 +10,7 @@ I work at the intersection of **statistical physics, particle astrophysics, and 
 
 My FAPESP-supported undergraduate research explores the **leading particle effect** and its connection to the **Muon Puzzle**. I build models and simulators in Python, work with CONEX/ROOT data, and use high-performance computing to compare physical hypotheses with simulations.
 
-I also enjoy scientific animation, nonlinear dynamics, mathematics, and teaching. Around here, I'm an **APOETA**.
+I also enjoy scientific animation, nonlinear dynamics, mathematics. Around here, I'm an **APOETA**.
 
 ## <img src="assets/section.svg" width="4" height="22" alt=""> &nbsp; Research workflow
 
