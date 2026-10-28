@@ -7,3 +7,9 @@ The APOEMA emblem is exported from original vector files supplied by the profile
 The galaxy, branching shower, and energy-sharing diagrams are illustrations, not plots of measured or simulated research results. Dark and light variants use transparent backgrounds to integrate with GitHub's theme.
 
 The scheduled workflow runs scripts/update_stats.py daily. Cards are served directly from this repository without relying on a third-party statistics-image service. Commit counts sum contributions attributed to davisilva169 on default branches of owned public, non-fork repositories. Language percentages describe code size reported by GitHub, not proficiency. Private repositories are excluded.
+
+## Workflow and selected-work showcase
+
+Run `python scripts/build_showcase.py` to rebuild the single-image workflow and the five-project showcase. All artwork is native SVG. The showcase uses self-contained CSS animation, highlights one project every six seconds, and needs no JavaScript or external resources. It displays a static first project when reduced motion is requested. Each repository has a normal text link directly below the animation; links inside an embedded SVG image are not used.
+
+Desktop and mobile compositions are separate assets to keep text legible. The shower artwork uses a connected branching tree; the Duffing illustration uses an RK4 trajectory of x'' + 0.2x' - x + x³ = 0.3 cos(1.2t). These are conceptual illustrations, not figures claiming to reproduce a project's research results.

@@ -14,46 +14,33 @@ I also enjoy scientific animation, nonlinear dynamics, mathematics, and teaching
 
 ## <img src="assets/section.svg" width="4" height="22" alt=""> &nbsp; Research workflow
 
-<p align="center">
-  <strong><img src="assets/model.svg" width="28" height="28" alt="">&nbsp;Model</strong>
-  &nbsp; → &nbsp;
-  <strong><img src="assets/simulate.svg" width="28" height="28" alt="">&nbsp;Simulate</strong>
-  &nbsp; → &nbsp;
-  <strong><img src="assets/compare.svg" width="28" height="28" alt="">&nbsp;Compare</strong>
-  &nbsp; → &nbsp;
-  <strong><img src="assets/visualize.svg" width="28" height="28" alt="">&nbsp;Visualize</strong>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/workflow-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/workflow-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/workflow-dark.svg">
+  <img width="1060" src="assets/workflow-light.svg" alt="Research workflow: Model → Simulate → Compare → Visualize.">
+</picture>
 
 ## <img src="assets/section.svg" width="4" height="22" alt=""> &nbsp; Selected work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/davisilva169/Null-Model-of-Uniform-Fragmentation">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/fragmentation-dark.svg">
-          <img width="600" src="assets/fragmentation-light.svg" alt="Illustration of a branching cosmic-ray air shower">
-        </picture>
-      </a>
-      <h3><a href="https://github.com/davisilva169/Null-Model-of-Uniform-Fragmentation">Uniform Fragmentation ↗</a></h3>
-      <p>A uniform fragmentation null model for energy sharing in cosmic-ray cascades, used to investigate the leading particle effect through statistical tests and comparisons with simulations.</p>
-      <p><code>Python</code> <code>Monte Carlo</code> <code>Statistical modeling</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/davisilva169/Leading-Particles-and-Muon-Puzzle">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="assets/leading-particles-dark.svg">
-          <img width="600" src="assets/leading-particles-light.svg" alt="Illustration of leading-particle energy sharing">
-        </picture>
-      </a>
-      <h3><a href="https://github.com/davisilva169/Leading-Particles-and-Muon-Puzzle">Leading Particles &amp; Muon Puzzle ↗</a></h3>
-      <p>Research on leading particles in high-energy cosmic-ray interactions and their relationship to air-shower development and muon production.</p>
-      <p><code>Particle astrophysics</code> <code>CONEX</code> <code>ROOT</code></p>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/selected-work-dark-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/selected-work-light-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/selected-work-dark.svg">
+  <img width="1080" src="assets/selected-work-light.svg" alt="Five projects rotate into the spotlight: Uniform Fragmentation; Leading Particles and the Muon Puzzle; CONEX/APOEMA Operations Guide; Poincaré Maps; Quanta Flashcards. Repository links follow.">
+</picture>
 
-Also exploring: [Poincaré maps and the Duffing oscillator](https://github.com/davisilva169/Poincar-Maps), nonlinear dynamics, and scientific visualization.
+<p align="center">
+  <a href="https://github.com/davisilva169/Null-Model-of-Uniform-Fragmentation">Uniform Fragmentation</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/davisilva169/Leading-Particles-and-Muon-Puzzle">Leading Particles &amp; Muon Puzzle</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/davisilva169/guia-conex-apoema">CONEX / APOEMA Guide</a>
+  <br>
+  <a href="https://github.com/davisilva169/Poincar-Maps">Poincaré Maps</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/davisilva169/quanta-flashcards">Quanta Flashcards</a>
+</p>
 
 ## <img src="assets/section.svg" width="4" height="22" alt=""> &nbsp; Research interests
 
@@ -89,7 +76,7 @@ Also exploring: [Poincaré maps and the Duffing oscillator](https://github.com/d
 ---
 
 <p align="center">
-  <a href="https://davisilva169.github.io/Portfolio/"><strong>Portfolio ↗</strong></a>
+  <a href="https://davisilva169.github.io/Portfolio/"><strong>Portfolio</strong></a>
   &nbsp; · &nbsp;
   <a href="mailto:davisilva169@usp.br"><strong>davisilva169@usp.br</strong></a>
 </p>
